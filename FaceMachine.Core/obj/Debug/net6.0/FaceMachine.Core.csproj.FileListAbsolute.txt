@@ -1,0 +1,12 @@
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\bin\Debug\net6.0\FaceMachine.Core.deps.json
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\bin\Debug\net6.0\FaceMachine.Core.dll
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\bin\Debug\net6.0\FaceMachine.Core.pdb
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.csproj.AssemblyReference.cache
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.AssemblyInfoInputs.cache
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.AssemblyInfo.cs
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.csproj.CoreCompileInputs.cache
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.dll
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\refint\FaceMachine.Core.dll
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.pdb
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\ref\FaceMachine.Core.dll

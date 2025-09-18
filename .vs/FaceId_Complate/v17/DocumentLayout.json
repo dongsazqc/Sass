@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\service\\faceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\service\\faceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\facemesagelisten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\facemesagelisten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\faceagentworker .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\faceagentworker .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C420A33-4850-4665-AA8D-C923BB8BD7F6}|FaceMachine.Test\\FaceMachine.Test.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C420A33-4850-4665-AA8D-C923BB8BD7F6}|FaceMachine.Test\\FaceMachine.Test.csproj|solutionrelative:facemachine.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\validate\\facevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\validate\\facevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\helpers\\faceapiclient_facerecognitionterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\helpers\\faceapiclient_facerecognitionterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\helpers\\machinemapping(tamthoi).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\helpers\\machinemapping(tamthoi).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C420A33-4850-4665-AA8D-C923BB8BD7F6}|FaceMachine.Test\\FaceMachine.Test.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.test\\facemachine.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C420A33-4850-4665-AA8D-C923BB8BD7F6}|FaceMachine.Test\\FaceMachine.Test.csproj|solutionrelative:facemachine.test\\facemachine.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\rabbithelper\\rabbithelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\rabbithelper\\rabbithelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\models\\facemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\models\\facemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\models\\facerequest_facerecognitionterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\models\\facerequest_facerecognitionterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\models\\machineinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\models\\machineinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\models\\person_facerecognitonterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\models\\person_facerecognitonterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\models\\listperson_facerecognitonterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\models\\listperson_facerecognitonterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\helpers\\helpersdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\helpers\\helpersdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66E8CA0-F068-4F7D-9C55-9FD179E2CA87}|NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\netfacemachine.messaging\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66E8CA0-F068-4F7D-9C55-9FD179E2CA87}|NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj|solutionrelative:netfacemachine.messaging\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\facemachine.core\\service\\facemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F43BA8-70A0-485B-8500-4D72EAD88C76}|FaceMachine.Core\\FaceMachine.Core.csproj|solutionrelative:facemachine.core\\service\\facemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\agentconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\agentconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|d:\\study\\vsstudio\\nextx\\sass\\faceid_complate\\agentconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD376CBD-1B0B-4A70-B2AD-A9A0BF0BEC92}|AgentConsumer\\AgentConsumer.csproj|solutionrelative:agentconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaceService.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Service\\FaceService.cs",
+              "RelativeDocumentMoniker": "AgentConsumer\\Service\\FaceService.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Service\\FaceService.cs",
+              "RelativeToolTip": "AgentConsumer\\Service\\FaceService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:52:14.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FaceValidator.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Validate\\FaceValidator.cs",
+              "RelativeDocumentMoniker": "AgentConsumer\\Validate\\FaceValidator.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Validate\\FaceValidator.cs",
+              "RelativeToolTip": "AgentConsumer\\Validate\\FaceValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:50:41.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceMesageListen.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\FaceMesageListen.cs",
+              "RelativeDocumentMoniker": "AgentConsumer\\FaceMesageListen.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\FaceMesageListen.cs",
+              "RelativeToolTip": "AgentConsumer\\FaceMesageListen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:47:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FaceApiClient_FaceRecognitionTerminal.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Helpers\\FaceApiClient_FaceRecognitionTerminal.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Helpers\\FaceApiClient_FaceRecognitionTerminal.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Helpers\\FaceApiClient_FaceRecognitionTerminal.cs",
+              "RelativeToolTip": "FaceMachine.Core\\Helpers\\FaceApiClient_FaceRecognitionTerminal.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawCcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:00:48.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Test\\Program.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Test\\Program.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Test\\Program.cs",
+              "RelativeToolTip": "FaceMachine.Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:58:16.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaceAgentWorker .cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\FaceAgentWorker .cs",
+              "RelativeDocumentMoniker": "AgentConsumer\\FaceAgentWorker .cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\FaceAgentWorker .cs",
+              "RelativeToolTip": "AgentConsumer\\FaceAgentWorker .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:39:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MachineMapping(Tamthoi).cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Helpers\\MachineMapping(Tamthoi).cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Helpers\\MachineMapping(Tamthoi).cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Helpers\\MachineMapping(Tamthoi).cs",
+              "RelativeToolTip": "FaceMachine.Core\\Helpers\\MachineMapping(Tamthoi).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:00:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitHelper.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\RabbitHelper\\RabbitHelper.cs",
+              "RelativeDocumentMoniker": "AgentConsumer\\RabbitHelper\\RabbitHelper.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\RabbitHelper\\RabbitHelper.cs",
+              "RelativeToolTip": "AgentConsumer\\RabbitHelper\\RabbitHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:47:22.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FaceMessage.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Models\\FaceMessage.cs",
+              "RelativeDocumentMoniker": "AgentConsumer\\Models\\FaceMessage.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Models\\FaceMessage.cs",
+              "RelativeToolTip": "AgentConsumer\\Models\\FaceMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:47:56.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "AgentConsumer\\Program.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\Program.cs",
+              "RelativeToolTip": "AgentConsumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:17:04.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FaceMachine.Test",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Test\\FaceMachine.Test.csproj",
+              "RelativeDocumentMoniker": "FaceMachine.Test\\FaceMachine.Test.csproj",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Test\\FaceMachine.Test.csproj",
+              "RelativeToolTip": "FaceMachine.Test\\FaceMachine.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T13:03:27.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Person_FaceRecognitonTerminal.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\Person_FaceRecognitonTerminal.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Models\\Person_FaceRecognitonTerminal.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\Person_FaceRecognitonTerminal.cs",
+              "RelativeToolTip": "FaceMachine.Core\\Models\\Person_FaceRecognitonTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:02:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FaceRequest_FaceRecognitionTerminal.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\FaceRequest_FaceRecognitionTerminal.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Models\\FaceRequest_FaceRecognitionTerminal.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\FaceRequest_FaceRecognitionTerminal.cs",
+              "RelativeToolTip": "FaceMachine.Core\\Models\\FaceRequest_FaceRecognitionTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:16:38.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MachineInfo.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\MachineInfo.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Models\\MachineInfo.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\MachineInfo.cs",
+              "RelativeToolTip": "FaceMachine.Core\\Models\\MachineInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:02:31.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListPerson_FaceRecognitonTerminal.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\ListPerson_FaceRecognitonTerminal.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Models\\ListPerson_FaceRecognitonTerminal.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Models\\ListPerson_FaceRecognitonTerminal.cs",
+              "RelativeToolTip": "FaceMachine.Core\\Models\\ListPerson_FaceRecognitonTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:30:41.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HelpersDevice.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Helpers\\HelpersDevice.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Helpers\\HelpersDevice.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Helpers\\HelpersDevice.cs",
+              "RelativeToolTip": "FaceMachine.Core\\Helpers\\HelpersDevice.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:00:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MachineController.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\NetFaceMachine.Messaging\\Controllers\\MachineController.cs",
+              "RelativeDocumentMoniker": "NetFaceMachine.Messaging\\Controllers\\MachineController.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\NetFaceMachine.Messaging\\Controllers\\MachineController.cs",
+              "RelativeToolTip": "NetFaceMachine.Messaging\\Controllers\\MachineController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:34:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FaceMachineService.cs",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Service\\FaceMachineService.cs",
+              "RelativeDocumentMoniker": "FaceMachine.Core\\Service\\FaceMachineService.cs",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\Service\\FaceMachineService.cs",
+              "RelativeToolTip": "FaceMachine.Core\\Service\\FaceMachineService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:00:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AgentConsumer",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\AgentConsumer.csproj",
+              "RelativeDocumentMoniker": "AgentConsumer\\AgentConsumer.csproj",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\AgentConsumer.csproj",
+              "RelativeToolTip": "AgentConsumer\\AgentConsumer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T13:08:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\appsettings.json",
+              "RelativeDocumentMoniker": "AgentConsumer\\appsettings.json",
+              "ToolTip": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\appsettings.json",
+              "RelativeToolTip": "AgentConsumer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T12:48:49.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

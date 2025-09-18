@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzeU4GM+kNc=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\ABC\\AgentConsumer.Test\\AgentConsumer.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saz\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Saz\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Saz\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
