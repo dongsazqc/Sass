@@ -1,15 +1,17 @@
-﻿using AgentConsumer.Models;
-using AgentConsumer.Service;
-using Newtonsoft.Json;
+﻿using AgentConsumer.Service;
 using Newtonsoft.Json.Linq;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System;
 using System.Text;
+using System.Threading.Tasks;
 
 public static class FaceMesageListen
 {
-    public static void Listen(IModel channel, string queueName)
+    /// <summary>
+    /// Listener cho từng queue
+    /// </summary>
+    public static void Listen(IModel channel, string queueName, Func<JObject, Task> handler)
     {
         channel.QueueDeclare(queue: queueName, durable: true, exclusive: false, autoDelete: false, arguments: null);
 
@@ -17,20 +19,14 @@ public static class FaceMesageListen
         consumer.Received += async (model, ea) =>
         {
             var body = Encoding.UTF8.GetString(ea.Body.ToArray());
-            Console.WriteLine("[Debug] Nhận JSON: " + body);
+            Console.WriteLine($"[Debug] Nhận JSON từ queue {queueName}: {body}");
 
             try
             {
                 var json = JObject.Parse(body);
 
-                if (FaceValidator.ValidateAddPerson(json, out var error))
-                {
-                    await FaceService.HandleAddPerson(json);
-                }
-                else
-                {
-                    Console.WriteLine("[Warn] Bỏ qua message: " + error);
-                }
+                // Chạy handler tương ứng
+                await handler(json);
 
                 channel.BasicAck(ea.DeliveryTag, false);
             }
@@ -42,5 +38,4 @@ public static class FaceMesageListen
 
         channel.BasicConsume(queue: queueName, autoAck: false, consumer: consumer);
     }
-
 }

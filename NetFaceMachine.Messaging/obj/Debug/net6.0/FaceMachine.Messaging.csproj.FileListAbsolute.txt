@@ -38,3 +38,4 @@ D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\NetFaceMachine.Messaging\obj\Debug\
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\NetFaceMachine.Messaging\obj\Debug\net6.0\FaceMachine.Messaging.pdb
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\NetFaceMachine.Messaging\obj\Debug\net6.0\FaceMachine.Messaging.genruntimeconfig.cache
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\NetFaceMachine.Messaging\obj\Debug\net6.0\ref\FaceMachine.Messaging.dll
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\NetFaceMachine.Messaging\obj\Debug\net6.0\FaceMachine.Messaging.sourcelink.json

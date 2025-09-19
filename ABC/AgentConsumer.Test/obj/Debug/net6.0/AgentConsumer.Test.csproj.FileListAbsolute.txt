@@ -38,3 +38,4 @@ D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\ABC\AgentConsumer.Test\bin\Debug\ne
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\ABC\AgentConsumer.Test\obj\Debug\net6.0\AgentCon.89510745.Up2Date
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\ABC\AgentConsumer.Test\obj\Debug\net6.0\AgentConsumer.Test.genruntimeconfig.cache
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\ABC\AgentConsumer.Test\obj\Debug\net6.0\ref\AgentConsumer.Test.dll
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\ABC\AgentConsumer.Test\obj\Debug\net6.0\AgentConsumer.Test.sourcelink.json

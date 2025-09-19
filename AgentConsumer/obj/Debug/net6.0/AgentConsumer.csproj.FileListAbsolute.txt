@@ -50,3 +50,4 @@ D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\AgentConsumer\obj\Debug\net6.0\refi
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\AgentConsumer\obj\Debug\net6.0\AgentConsumer.pdb
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\AgentConsumer\obj\Debug\net6.0\AgentConsumer.genruntimeconfig.cache
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\AgentConsumer\obj\Debug\net6.0\ref\AgentConsumer.dll
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\AgentConsumer\obj\Debug\net6.0\AgentConsumer.sourcelink.json

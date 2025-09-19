@@ -7,7 +7,9 @@ using RabbitMQ.Client;
 
 namespace AgentConsumer.Service
 {
-
+    /// <summary>
+    /// Nơi kết nối đến RabbitMQ
+    /// </summary>
     public static class RabbitHelper
     {
         public static (IConnection, IModel) Connect(string host = "localhost", int port = 5672, string user = "guest", string pass = "guest")

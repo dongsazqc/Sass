@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace AgentConsumer.Models
 {
+    // Check điều kiện dữ liệu trả về ít nhất phải có những thuộc tính này
     public class FaceMessage
     {
-        public string Operator { get; set; }
+        public string Action { get; set; }
         public string Ip { get; set; }
         public string DeviceID { get; set; }
 

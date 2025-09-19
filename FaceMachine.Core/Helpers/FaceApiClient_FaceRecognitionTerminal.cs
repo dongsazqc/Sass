@@ -39,7 +39,7 @@ namespace FaceMachine.Core.Helpers
 
             return await _helperDevice.PostAsync(url, payload, username, password);
         }
-        public async Task<string>ListPersonAsync( string ip , string username , string password, Person_FaceRecognitonTerminal listperson, int deviceId)
+        public async Task<string>ListPersonAsync( string ip , string username , string password, ListPerson_FaceRecognitonTerminal listperson, int deviceId)
         {
             listperson.DeviceID = deviceId;
             var url = $"http://{ip}/action/SearchPersonList";

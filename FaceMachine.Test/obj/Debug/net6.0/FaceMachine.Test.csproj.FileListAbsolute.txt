@@ -22,3 +22,4 @@ D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Test\bin\Debug\net6.0\R
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Test\bin\Debug\net6.0\System.Text.Json.dll
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Test\bin\Debug\net6.0\FaceMachine.Core.dll
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Test\bin\Debug\net6.0\FaceMachine.Core.pdb
+D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Test\obj\Debug\net6.0\FaceMachine.Test.sourcelink.json
