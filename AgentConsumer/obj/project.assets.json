@@ -1459,6 +1459,19 @@
         "runtime": {
           "bin/placeholder/FaceMachine.Core.dll": {}
         }
+      },
+      "Face_web/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Face_web.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Face_web.dll": {}
+        }
       }
     }
   },
@@ -4330,11 +4343,17 @@
       "type": "project",
       "path": "../FaceMachine.Core/FaceMachine.Core.csproj",
       "msbuildProject": "../FaceMachine.Core/FaceMachine.Core.csproj"
+    },
+    "Face_web/1.0.0": {
+      "type": "project",
+      "path": "../Face_web/Face_web.csproj",
+      "msbuildProject": "../Face_web/Face_web.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "FaceMachine.Core >= 1.0.0",
+      "Face_web >= 1.0.0",
       "Microsoft.Extensions.Hosting >= 6.0.1",
       "Newtonsoft.Json >= 13.0.4",
       "RabbitMQ.Client >= 6.0.0"
@@ -4347,11 +4366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\AgentConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\AgentConsumer\\AgentConsumer.csproj",
       "projectName": "AgentConsumer",
-      "projectPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\AgentConsumer.csproj",
+      "projectPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\AgentConsumer\\AgentConsumer.csproj",
       "packagesPath": "C:\\Users\\Saz\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\obj\\",
+      "outputPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\AgentConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4375,8 +4394,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\FaceMachine.Core.csproj": {
-              "projectPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\FaceMachine.Core.csproj"
+            "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Core\\FaceMachine.Core.csproj": {
+              "projectPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Core\\FaceMachine.Core.csproj"
+            },
+            "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\Face_web\\Face_web.csproj": {
+              "projectPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\Face_web\\Face_web.csproj"
             }
           }
         }

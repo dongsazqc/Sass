@@ -1,0 +1,17 @@
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\bin\Debug\net6.0-windows\FaceLogin.exe
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\bin\Debug\net6.0-windows\FaceLogin.deps.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\bin\Debug\net6.0-windows\FaceLogin.runtimeconfig.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\bin\Debug\net6.0-windows\FaceLogin.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\bin\Debug\net6.0-windows\FaceLogin.pdb
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.Form1.resources
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.csproj.GenerateResource.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.AssemblyInfoInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.AssemblyInfo.cs
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.csproj.CoreCompileInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.sourcelink.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\refint\FaceLogin.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.pdb
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\FaceLogin.genruntimeconfig.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceLogin\obj\Debug\net6.0-windows\ref\FaceLogin.dll

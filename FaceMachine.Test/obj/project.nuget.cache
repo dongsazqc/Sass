@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5AMV70nup4A=",
+  "dgSpecHash": "SiyyVtKuRjo=",
   "success": true,
-  "projectFilePath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Test\\FaceMachine.Test.csproj",
+  "projectFilePath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Test\\FaceMachine.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Saz\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

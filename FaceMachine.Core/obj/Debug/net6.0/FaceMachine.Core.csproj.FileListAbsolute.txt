@@ -11,3 +11,16 @@ D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\r
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.pdb
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\ref\FaceMachine.Core.dll
 D:\Study\VsStudio\nextX\SaSS\FaceId_Complate\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.sourcelink.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\bin\Debug\net6.0\FaceMachine.Core.deps.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\bin\Debug\net6.0\FaceMachine.Core.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\bin\Debug\net6.0\FaceMachine.Core.pdb
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.csproj.AssemblyReference.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.AssemblyInfoInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.AssemblyInfo.cs
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.csproj.CoreCompileInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.sourcelink.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\refint\FaceMachine.Core.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\FaceMachine.Core.pdb
+C:\Users\Saz\Desktop\Sass\Sass\FaceMachine.Core\obj\Debug\net6.0\ref\FaceMachine.Core.dll

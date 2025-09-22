@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NdGqOofxVHQ=",
+  "dgSpecHash": "6WZV95QVsXA=",
   "success": true,
-  "projectFilePath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\AgentConsumer\\AgentConsumer.csproj",
+  "projectFilePath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\AgentConsumer\\AgentConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saz\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Saz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

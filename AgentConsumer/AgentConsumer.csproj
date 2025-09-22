@@ -1,3 +1,5 @@
+
+
 <Project Sdk="Microsoft.NET.Sdk.Worker">
 
   <PropertyGroup>
@@ -15,5 +17,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FaceMachine.Core\FaceMachine.Core.csproj" />
+    <ProjectReference Include="..\Face_web\Face_web.csproj" />
   </ItemGroup>
 </Project>

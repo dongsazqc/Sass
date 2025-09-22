@@ -1,0 +1,13 @@
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.csproj.AssemblyReference.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.AssemblyInfoInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.AssemblyInfo.cs
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.csproj.CoreCompileInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.sourcelink.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\bin\Debug\net6.0\FaceGetWeb_Api.deps.json
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\bin\Debug\net6.0\FaceGetWeb_Api.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\bin\Debug\net6.0\FaceGetWeb_Api.pdb
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\refint\FaceGetWeb_Api.dll
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\FaceGetWeb_Api.pdb
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetWeb_Api\obj\Debug\net6.0\ref\FaceGetWeb_Api.dll

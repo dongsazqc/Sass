@@ -21,13 +21,13 @@ namespace FaceMachine.Core.Helpers
 
 
 
-        public async Task<string> AddPersonAsync(string ip, string username, string password, Person_FaceRecognitonTerminal person, int deviceId)
+        public async Task<string> AddPersonAsync(string ip, string username, string password, Person_FaceRecognitonTerminal person, string deviceId)
         {
             person.DeviceID = deviceId;
 
 
             var url = $"http://{ip}/action/AddPerson";
-            var payload = new FaceRequest
+            var payload = new FaceRequest_FaceRecognitionTerminal
             {
                 @operator = "AddPerson",
                 info = person
@@ -39,11 +39,11 @@ namespace FaceMachine.Core.Helpers
 
             return await _helperDevice.PostAsync(url, payload, username, password);
         }
-        public async Task<string>ListPersonAsync( string ip , string username , string password, ListPerson_FaceRecognitonTerminal listperson, int deviceId)
+        public async Task<string>ListPersonAsync( string ip , string username , string password, ListPerson_FaceRecognitonTerminal listperson, string deviceId)
         {
             listperson.DeviceID = deviceId;
             var url = $"http://{ip}/action/SearchPersonList";
-            var payload = new FaceRequest
+            var payload = new FaceRequest_FaceRecognitionTerminal
             {
                 @operator = "SearchPersonList",
                 info = listperson
@@ -55,6 +55,17 @@ namespace FaceMachine.Core.Helpers
 
         }
 
+        public async Task<string> FrontalFaceSnapAsync(string ip, string username, string password, FrontalFaceSnap_FaceRecognitionTerminal fronta, string deviceId)
+        {
+            var url = $"http://{ip}/action/FrontalFaceSnap";
+            var payload = new FaceRequest_FaceRecognitionTerminal
+            {
+                @operator = "FrontalFaceSnap",
+                info = fronta
+
+            };
+            return await _helperDevice.PostAsync(url, payload, username, password);
+        }
 
     }
 

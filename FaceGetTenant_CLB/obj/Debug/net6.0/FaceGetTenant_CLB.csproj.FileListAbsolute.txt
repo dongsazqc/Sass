@@ -1,0 +1,6 @@
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetTenant_CLB\obj\Debug\net6.0\FaceGetTenant_CLB.csproj.AssemblyReference.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetTenant_CLB\obj\Debug\net6.0\FaceGetTenant_CLB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetTenant_CLB\obj\Debug\net6.0\FaceGetTenant_CLB.AssemblyInfoInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetTenant_CLB\obj\Debug\net6.0\FaceGetTenant_CLB.AssemblyInfo.cs
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetTenant_CLB\obj\Debug\net6.0\FaceGetTenant_CLB.csproj.CoreCompileInputs.cache
+C:\Users\Saz\Desktop\Sass\Sass\FaceGetTenant_CLB\obj\Debug\net6.0\FaceGetTenant_CLB.sourcelink.json

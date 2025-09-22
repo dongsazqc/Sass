@@ -3580,11 +3580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj",
+      "projectUniqueName": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj",
       "projectName": "FaceMachine.Messaging",
-      "projectPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj",
+      "projectPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj",
       "packagesPath": "C:\\Users\\Saz\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\NetFaceMachine.Messaging\\obj\\",
+      "outputPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\NetFaceMachine.Messaging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3608,8 +3608,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\FaceMachine.Core.csproj": {
-              "projectPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\FaceMachine.Core.csproj"
+            "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Core\\FaceMachine.Core.csproj": {
+              "projectPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Core\\FaceMachine.Core.csproj"
             }
           }
         }

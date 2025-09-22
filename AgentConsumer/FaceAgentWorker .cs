@@ -33,11 +33,18 @@ public class FaceAgentWorker : BackgroundService
         _channel.QueueDeclare("search_person_queue", durable: true, exclusive: false, autoDelete: false);
         _channel.QueueBind("search_person_queue", "face_exchange", "SearchPersonList");
 
+
+        // tạo queue cho chức năng chụp ảnh
+        _channel.QueueDeclare("capture_image_queue", durable: true, exclusive: false, autoDelete: false);
+        _channel.QueueBind("capture_image_queue", "face_exchange", "FrontalFaceSnap");
+
         // 5️⃣ Lắng nghe từng queue
         // Khi có message tới, tự động gọi handler tương ứng
         FaceMesageListen.Listen(_channel, "add_person_queue", FaceService_FaceRecognitionTerminal.HandleAddPerson);
         FaceMesageListen.Listen(_channel, "search_person_queue", FaceService_FaceRecognitionTerminal.HandleListPerson);
 
+
+        FaceMesageListen.Listen(_channel, "capture_image_queue", FaceService_FaceRecognitionTerminal.HandleFrontalFaceSnap);
         // 6️⃣ Log ra console biết worker đang chạy
         Console.WriteLine("[Worker] Agent đang chạy và lắng nghe các queue...");
 

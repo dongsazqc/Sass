@@ -5,10 +5,6 @@
       {
         "Path": "AgentConsumer\\AgentConsumer.csproj",
         "Action": "Start"
-      },
-      {
-        "Path": "TestClient.AgentConsumer\\TestClient.AgentConsumer.csproj",
-        "Action": "Start"
       }
     ]
   }

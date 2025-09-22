@@ -12,14 +12,14 @@ namespace AgentConsumer.Service
     /// </summary>
     public static class RabbitHelper
     {
-        public static (IConnection, IModel) Connect(string host = "localhost", int port = 5672, string user = "guest", string pass = "guest")
+        public static (IConnection, IModel) Connect()
         {
             var factory = new ConnectionFactory()
             {
-                HostName = host,
-                Port = port,
-                UserName = user,
-                Password = pass
+                HostName = "103.5.209.131",
+                Port = 5672,
+                UserName = "nextcrm",
+                Password = "123456aa",
             };
 
             var connection = factory.CreateConnection();

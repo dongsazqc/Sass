@@ -3136,11 +3136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\FaceMachine.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Core\\FaceMachine.Core.csproj",
       "projectName": "FaceMachine.Core",
-      "projectPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\FaceMachine.Core.csproj",
+      "projectPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Core\\FaceMachine.Core.csproj",
       "packagesPath": "C:\\Users\\Saz\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\FaceMachine.Core\\obj\\",
+      "outputPath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\FaceMachine.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

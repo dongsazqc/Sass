@@ -9,6 +9,7 @@
       "AgentConsumer/1.0.0": {
         "dependencies": {
           "FaceMachine.Core": "1.0.0",
+          "Face_web": "1.0.0",
           "Microsoft.Extensions.Hosting": "6.0.1",
           "Newtonsoft.Json": "13.0.4",
           "RabbitMQ.Client": "6.0.0"
@@ -824,6 +825,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Face_web/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "runtime": {
+          "Face_web.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1408,6 +1420,11 @@
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
     "FaceMachine.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Face_web/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

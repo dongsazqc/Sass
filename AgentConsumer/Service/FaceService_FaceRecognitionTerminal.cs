@@ -1,4 +1,6 @@
 ﻿using AgentConsumer.Models;
+using FaceGetWeb_Api.HelperWeb;
+using FaceGetWeb_Api.Models;
 using FaceMachine.Core.Helpers;
 using FaceMachine.Core.Models;
 using Newtonsoft.Json.Linq;
@@ -22,7 +24,7 @@ namespace AgentConsumer.Service
                 string ip = json["Ip"]?.ToString();
                 string username = json["Username"]?.ToString();
                 string password = json["Password"]?.ToString();
-                int deviceId = json["DeviceID"]?.ToObject<int>() ?? 0;
+                string deviceId = json["DeviceID"]?.ToString();
 
                 var person = json["info"]?.ToObject<Person_FaceRecognitonTerminal>();
 
@@ -67,7 +69,7 @@ namespace AgentConsumer.Service
                 string ip = json["Ip"]?.ToString();
                 string username = json["Username"]?.ToString();
                 string password = json["Password"]?.ToString();
-                int deviceId = json["DeviceID"]?.ToObject<int>() ?? 0;
+                string deviceId = json["DeviceID"]?.ToString();
 
                 var listperson = json["info"]?.ToObject<ListPerson_FaceRecognitonTerminal>();
                 if (string.IsNullOrEmpty(ip) || listperson == null)
@@ -99,6 +101,65 @@ namespace AgentConsumer.Service
                                      body: responseBody);
 
                 Console.WriteLine($"[API Response sent to queue '{responseQueue}'] {responseMessage}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"[Error] HandleListPerson failed: {ex.Message}");
+            }
+        }
+
+        public static async Task HandleFrontalFaceSnap(JObject json)
+        {
+            try
+            {
+                // Lấy mấy trường cần thiết từ JSON
+                string ip = json["Ip"]?.ToString();
+                string username = "admin";
+                string deviceId = json["DeviceID"]?.ToString();
+
+                var cap = json["info"]?.ToObject<FrontalFaceSnap_FaceRecognitionTerminal>();
+                if (string.IsNullOrEmpty(ip) || cap == null)
+                {
+                    Console.WriteLine("[Error] JSON thiếu dữ liệu bắt buộc!");
+                    return;
+                }
+                var client = new HttpClientHelper<TimeAttendanceResponse>();
+                string endpoint = "?pageLimit=50&page=1&include=room,rehearsals,user_timezone";
+
+
+                // Gọi API
+                string password = await client.GetAsync(endpoint, ip);
+
+
+
+
+                var api = new FaceApiClient_FaceRecognitionTerminal();
+                var result = await api.FrontalFaceSnapAsync(ip, username, password, cap, deviceId);
+
+                var (connection, channel) = RabbitHelper.Connect();
+
+                using (connection)
+                using (channel)
+                {
+                    string responseQueue = json["ResponseQueue"]?.ToString() ?? "default_response_queue";
+                    channel.QueueDeclare(responseQueue, durable: true, exclusive: false, autoDelete: false);
+
+                    // Chuẩn bị message
+                    string responseMessage = string.IsNullOrWhiteSpace(result)
+                        ? "Chụp ảnh thất bại"
+                        : result;
+
+                    var responseBody = Encoding.UTF8.GetBytes(responseMessage);
+
+                    // Gửi message vào queue
+                    channel.BasicPublish(
+                        exchange: "",
+                        routingKey: responseQueue,
+                        basicProperties: null,
+                        body: responseBody);
+
+                    Console.WriteLine($"[API Response sent to queue '{responseQueue}'] {responseMessage}");
+                }
             }
             catch (Exception ex)
             {

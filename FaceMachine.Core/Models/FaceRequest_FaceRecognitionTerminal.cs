@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace FaceMachine.Core.Models
 {
-    public class FaceRequest
+    public class FaceRequest_FaceRecognitionTerminal
     {
         public string @operator { get; set; }
         public object info { get; set; }
+        public object picinfo { get; set; }
+        public object picURI { get; set; }
     }
 }

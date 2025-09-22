@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WT9yP9Itu6I=",
+  "dgSpecHash": "T7Q/0CZQa2M=",
   "success": true,
-  "projectFilePath": "D:\\Study\\VsStudio\\nextX\\SaSS\\FaceId_Complate\\NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj",
+  "projectFilePath": "C:\\Users\\Saz\\Desktop\\Sass\\Sass\\NetFaceMachine.Messaging\\FaceMachine.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Saz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",

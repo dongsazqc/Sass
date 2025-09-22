@@ -9,7 +9,7 @@ namespace FaceMachine.Core.Models
     public class Person_FaceRecognitonTerminal
     {
         public int PersonType { get; set; }
-        public int DeviceID { get; set; }
+        public string DeviceID { get; set; }
         public string Name { get; set; } 
         public int Gender { get; set; }
         public int Nation { get; set; }
